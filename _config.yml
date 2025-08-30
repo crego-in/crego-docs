@@ -8,7 +8,7 @@ plugins:
   - jekyll-feed
   - jekyll-sitemap
 
-# Navigation
+# Mention Navigation here
 header_pages:
   - guides/CREGO-SETUP-GUIDE.md
   - standards/GitRules.md
