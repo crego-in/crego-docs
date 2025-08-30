@@ -1,0 +1,18 @@
+title: Crego Documentation
+description: Central documentation hub for Crego project
+theme: minima
+markdown: kramdown
+highlighter: rouge
+
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
+
+# Navigation
+header_pages:
+  - guides/CREGO-SETUP-GUIDE.md
+  - standards/GitRules.md
+  - Readme.md
+
+# Show excerpts on homepage
+show_excerpts: true
