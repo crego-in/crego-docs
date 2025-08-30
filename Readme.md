@@ -1,5 +1,3 @@
-# Crego-Docs
-
 ## Overview
 
 This repository serves as the central documentation hub for Crego. All project-related documentation, architectural decisions, research findings, standards, rules, and guidelines are maintained here.
